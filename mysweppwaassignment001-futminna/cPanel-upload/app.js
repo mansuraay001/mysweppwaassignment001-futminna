@@ -35,6 +35,7 @@
             <p class="eyebrow">FOUNDATION TRACK · PWA PRACTICAL</p>
             <div class="hero-grid">
               <div><h1>Keep learning when the network leaves.</h1><br>
+              <h2>Yahaya Mansur Amoto</h2>
               <h2>Mechatronics Engineering Department</h2><br>
               <h2>2024/1/97087ET</h2>
               <p class="lede">Create a note, refresh the page, then test the same experience with the network turned off. This small project demonstrates the core PWA building blocks from the workshop.</p><div class="concept-row"><span>React UI</span><span>localStorage</span><span>Manifest</span><span>Service worker</span></div></div>
